@@ -1,26 +1,10 @@
-<div align="center">
-
 # Marc Cajamarca
 
 ### Programador .NET Junior
 
-Desarrollo backend y aplicaciones web con C#, .NET, SQL Server y JavaScript
+Desarrollo backend y aplicaciones web con C#, .NET, SQL Server y JavaScript.
 
-<br>
-
-<a href="URL_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Marc_Cajamarca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:marc.cajamarca04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/rumarrcc">
-  <img src="https://img.shields.io/badge/GitHub-rumarrcc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+[GitHub](https://github.com/rumarrcc) · [Email](mailto:marc.cajamarca04@gmail.com) · [LinkedIn](URL_LINKEDIN)
 
 ---
 
@@ -40,23 +24,15 @@ Actualmente estoy reforzando mis conocimientos en **ASP.NET Core, APIs REST, Ent
 
 ## Tecnologías
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,python,flask,postgres,docker,git,azure,visualstudio,vscode" alt="Tecnologías principales" />
-
-</div>
-
-<br>
-
-Trabajo principalmente con **C#, .NET, ASP.NET, SQL Server y JavaScript**.
-
-También tengo experiencia con **React, Python, Flask, PostgreSQL, Docker, Git, Azure DevOps y AWS**.
+**Backend:** C#, .NET Framework, ASP.NET, Entity Framework, LINQ, SQL Server, T-SQL  
+**Frontend:** JavaScript, React  
+**Otros:** Python, Flask, PostgreSQL, Docker, Git, Azure DevOps, AWS
 
 ---
 
 ## Proyecto destacado
 
-### MyPredictsML
+### [MyPredictsML](https://github.com/rumarrcc/MyPredictsML)
 
 MyPredictsML es una plataforma web de análisis y predicción bursátil desarrollada como proyecto final de Desarrollo de Aplicaciones Web.
 
@@ -65,16 +41,6 @@ La aplicación permite consultar activos financieros, generar predicciones, anal
 El frontend está desarrollado con **React**, mientras que el backend utiliza **Python y Flask**.
 
 La plataforma trabaja con **PostgreSQL** para la persistencia de datos y está organizada para facilitar el despliegue y la evolución del proyecto.
-
-<div align="center">
-
-<a href="https://github.com/rumarrcc/MyPredictsML">
-  <img src="https://img.shields.io/badge/Repositorio-MyPredictsML-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio MyPredictsML" />
-</a>
-
-</div>
-
-<br>
 
 **Tecnologías:** React, JavaScript, Python, Flask, PostgreSQL, Docker, Git y AWS.
 
@@ -98,24 +64,6 @@ Esta etapa me permitió desarrollar capacidad de diagnóstico, priorización y c
 
 ---
 
-## Actividad en GitHub
-
-Puedes ver mi actividad, proyectos públicos y repositorios destacados en mi perfil de GitHub:
-
-<div align="center">
-
-<a href="https://github.com/rumarrcc">
-  <img src="https://img.shields.io/badge/Ver_perfil_en_GitHub-rumarrcc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de rumarrcc" />
-</a>
-
-<a href="https://github.com/rumarrcc?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositorios-públicos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios públicos" />
-</a>
-
-</div>
-
----
-
 ## Actualmente
 
 Estoy centrado en mejorar mi perfil como desarrollador backend .NET mediante proyectos prácticos con:
@@ -126,12 +74,8 @@ Mi objetivo es seguir creciendo como desarrollador y participar en proyectos don
 
 ---
 
-<div align="center">
-
-### Contacto
+## Contacto
 
 Madrid, España
 
 [LinkedIn](URL_LINKEDIN) · [Email](mailto:marc.cajamarca04@gmail.com) · [GitHub](https://github.com/rumarrcc)
-
-</div>
