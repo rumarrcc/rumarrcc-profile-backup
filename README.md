@@ -56,29 +56,27 @@ También tengo experiencia con **React, Python, Flask, PostgreSQL, Docker, Git, 
 
 ## Proyecto destacado
 
-### MyPredicts
+### MyPredictsML
 
-MyPredicts es una plataforma web de análisis y predicciones bursátiles desarrollada como proyecto final de Desarrollo de Aplicaciones Web.
+MyPredictsML es una plataforma web de análisis y predicción bursátil desarrollada como proyecto final de Desarrollo de Aplicaciones Web.
 
-La aplicación permite consultar activos financieros, generar predicciones, realizar backtesting, configurar alertas, gestionar favoritos y participar en simulaciones de inversión.
+La aplicación permite consultar activos financieros, generar predicciones, analizar resultados y trabajar con información orientada a la toma de decisiones de inversión.
 
 El frontend está desarrollado con **React**, mientras que el backend utiliza **Python y Flask**.
 
-La plataforma emplea **PostgreSQL** para la persistencia de datos, **Redis y Celery** para tareas asíncronas y **Docker** para organizar los distintos servicios.
-
-También incorpora autenticación, roles de usuario, rankings, señales, alertas, suscripciones y panel de administración.
+La plataforma trabaja con **PostgreSQL** para la persistencia de datos y está organizada para facilitar el despliegue y la evolución del proyecto.
 
 <div align="center">
 
-<a href="https://github.com/rumarrcc/MyPredicts">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rumarrcc&repo=MyPredicts&hide_border=true" alt="Repositorio MyPredicts" />
+<a href="https://github.com/rumarrcc/MyPredictsML">
+  <img src="https://img.shields.io/badge/Repositorio-MyPredictsML-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio MyPredictsML" />
 </a>
 
 </div>
 
 <br>
 
-**Tecnologías:** React, JavaScript, Python, Flask, PostgreSQL, Redis, Celery, Docker, Git y AWS.
+**Tecnologías:** React, JavaScript, Python, Flask, PostgreSQL, Docker, Git y AWS.
 
 ---
 
@@ -102,11 +100,17 @@ Esta etapa me permitió desarrollar capacidad de diagnóstico, priorización y c
 
 ## Actividad en GitHub
 
+Puedes ver mi actividad, proyectos públicos y repositorios destacados en mi perfil de GitHub:
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rumarrcc&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+<a href="https://github.com/rumarrcc">
+  <img src="https://img.shields.io/badge/Ver_perfil_en_GitHub-rumarrcc-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de rumarrcc" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumarrcc&layout=compact&hide_border=true&langs_count=6" alt="Lenguajes más utilizados" />
+<a href="https://github.com/rumarrcc?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositorios-públicos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios públicos" />
+</a>
 
 </div>
 
